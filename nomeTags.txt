@@ -1,0 +1,17 @@
+Nome das Tags HTML:
+1- <header>
+2- <main>
+3- <nav>
+4- <img>
+5- <H1>
+6- <H2>
+7- <p>
+8- <A>
+9- <footer>
+10- <UL>
+11- <LI>
+12- <Form>
+13- <label>
+14- <input>
+15- <select>
+16- <button>
